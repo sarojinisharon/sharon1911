@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharon
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science, UI/UX Design
 - 🌱 I’m currently learning SQL,Excel,Python,Ml,AI.
 - 📫 How to reach me @sharon110699@gmail.com
 
